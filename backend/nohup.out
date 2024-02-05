@@ -1,0 +1,30 @@
+INFO:     Started server process [50151]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     211.215.222.20:55656 - "GET / HTTP/1.1" 200 OK
+INFO:     211.215.222.20:55656 - "GET /css/style.css HTTP/1.1" 304 Not Modified
+INFO:     211.215.222.20:55656 - "GET /js/ie.js HTTP/1.1" 304 Not Modified
+INFO:     211.215.222.20:55661 - "GET /shyvana HTTP/1.1" 200 OK
+INFO:     49.161.100.156:3863 - "GET / HTTP/1.1" 200 OK
+INFO:     49.161.100.156:3863 - "GET /css/style.css HTTP/1.1" 200 OK
+INFO:     49.161.100.156:3863 - "GET /js/ie.js HTTP/1.1" 200 OK
+INFO:     49.161.100.156:3879 - "GET / HTTP/1.1" 200 OK
+INFO:     49.161.100.156:3881 - "GET /css/style.css HTTP/1.1" 200 OK
+INFO:     49.161.100.156:3881 - "GET /js/ie.js HTTP/1.1" 200 OK
+INFO:     49.161.100.156:3881 - "GET /favicon/favicon-32x32.png HTTP/1.1" 200 OK
+INFO:     49.161.100.156:3903 - "GET /camille HTTP/1.1" 200 OK
+INFO:     49.161.100.156:3904 - "GET /gragas HTTP/1.1" 200 OK
+INFO:     49.161.100.156:4067 - "GET /css/style.css HTTP/1.1" 304 Not Modified
+INFO:     49.161.100.156:4178 - "GET /darius HTTP/1.1" 200 OK
+INFO:     49.161.100.156:4179 - "GET /ekko HTTP/1.1" 200 OK
+INFO:     49.161.100.156:4180 - "GET /jayce HTTP/1.1" 200 OK
+INFO:     49.161.100.156:4180 - "GET /janna HTTP/1.1" 200 OK
+INFO:     49.161.100.156:4180 - "GET /jinx HTTP/1.1" 200 OK
+INFO:     49.161.100.156:4181 - "GET /vi HTTP/1.1" 200 OK
+WARNING:  Unsupported upgrade request.
+WARNING:  No supported WebSocket library detected. Please use "pip install 'uvicorn[standard]'", or install 'websockets' or 'wsproto' manually.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.

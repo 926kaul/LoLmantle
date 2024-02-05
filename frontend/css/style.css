@@ -1,0 +1,100 @@
+h1 {
+    font-size: 100px;
+    text-align: center;
+    font-family: "Comic Sans MS";
+    text-decoration: none; 
+    margin-bottom:50px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 3, 1);
+}
+
+#lang_selection{
+    font-size: 20px;
+    float: right;
+}
+
+#current_date{
+    font-size: 20px;
+    float: left;
+    font-family: "Comic Sans MS";
+}
+
+/* 웹페이지의 배경색을 지정합니다 */
+body {
+    background-color: #f0f0f0;
+}
+
+.search_wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#name {
+    width: 400px;
+    height: 30px;
+    margin-top:50px;
+}
+
+
+#suggestion_box {
+    margin-top: 1px;
+    background: white;
+    padding: 0 10px;
+    border: 1px solid black;
+}
+
+#suggested_items{
+    height:150px;
+    width: 250px;
+    overflow: auto; /* 스크롤바 추가 */
+}
+
+/* 마우스 올리면 색 변화 */
+li:hover{
+    background-color: rgb(248, 255, 173);
+}
+
+.selected{
+    background-color: lightgreen;
+}
+
+#guesses {
+    margin-top:40px;
+    margin-bottom: 40px;
+    width: 60%;
+    margin:auto;
+    display: table;
+}
+
+th, td {
+    text-align: center;
+    padding: 10px;
+}
+
+table {
+    border-top: 1px solid rgb(168, 168, 168);
+    border-bottom: 1px solid rgb(168, 168, 168);
+    border-collapse: collapse;
+    margin-top:40px;
+}
+
+#suggested_items{
+    list-style-type: none;
+}
+
+.detail{
+    height: 150px;
+}
+
+footer {
+    margin-top: 5em;
+}
+
+.textblue{
+    color:blue;
+}

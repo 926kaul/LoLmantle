@@ -1,0 +1,168 @@
+name,kor_name,tag1,tag2,attack_range,region,related_champions,release_code,position1,position2,rune,items,tier
+aatrox,아트록스,Fighter,Tank,175,Runeterra,"aatrox,kayn,varus,tryndamere",113,top,RIP,Conqueror,"Sundered Sky,Spear of Shojin,Sterak's Gage",1
+ahri,아리,Mage,Assassin,550,Ionia,"ahri,yasuo,lillia,wukong",88,mid,RIP,Electrocute,"Luden's Companion,Stormsurge,Shadowflame",3
+akali,아칼리,Assassin,RIP,125,Ionia,"akali,kennen,shen,zed,jhin",50,mid,top,Fleet Footwork,"Stormsurge,Shadowflame,Zhonya's Hourglass",2
+akshan,아크샨,Marksman,Assassin,500,Shurima,"akshan,lucian,senna,viego,gwen",155,mid,top,Press the Attack,"Voltaic Cyclosword,The Collector,Kraken Slayer",2
+alistar,알리스타,Tank,Support,125,Runeterra,"alistar,xin zhao",7,support,RIP,Glacial Augment,"Locket of the Iron Solari,Zeke's Convergence,Knight's Vow",3
+amumu,아무무,Tank,Mage,125,Shurima,amumu,23,jungle,RIP,Conqueror,"Sunfire Aegis,Thornmail,Kaenic Rookern",4
+anivia,애니비아,Mage,Support,600,Freljord,"anivia,ornn,volibear,ashe,nunu & willump",26,mid,RIP,Electrocute,"Tear of the Goddess,Rod of Ages,Seraph's Embrace,Zhonya's Hourglass",2
+annie,애니,Mage,RIP,625,Runeterra,annie,8,mid,RIP,Electrocute,"Malignance,Stormsurge,Shadowflame",3
+aphelios,아펠리오스,Marksman,RIP,550,Targon,"aphelios,diana,leona",146,adc,RIP,Fleet Footwork,"Stormrazor,Infinity Edge,Bloodthirster",4
+ashe,애쉬,Marksman,Support,600,Freljord,"ashe,sejuani,tryndamere,braum,lissandra",9,adc,support,Lethal Tempo,"Kraken Slayer,Trinity Force,Terminus",3
+aurelionsol,아우렐리온 솔,Mage,RIP,550,Runeterra,"aurelionsol,soraka,leona,diana",129,mid,RIP,Arcane Comet,"Tear of the Goddess,Rylai's Crystal Scepter,Liandry's Torment,Seraph's Embrace",3
+azir,아지르,Mage,Marksman,525,Shurima,"azir,nasus,sivir,xerath,renekton,taliyah,cassiopeia",120,mid,RIP,Fleet Footwork,"Nashor's Tooth,Lich Bane,Zhonya's Hourglass",2
+bard,바드,Support,Mage,500,Runeterra,"bard,aurelion sol,ryze",123,support,RIP,Fleet Footwork,"Frozen Heart,Kaenic Rookern,Imperial Mandate",1
+belveth,벨베스,Fighter,RIP,175,The Void,"belveth,kai'sa,lissandra,malzahar,vel'koz",159,jungle,RIP,Conqueror,"Kraken Slayer,Stridebreaker,Wit's End",3
+blitzcrank,블리츠크랭크,Tank,Fighter,125,Zaun,"blitzcrank,orianna,viktor",33,support,RIP,Glacial Augment,"Trailblazer,Zeke's Convergence,Knight's Vow",1
+brand,브랜드,Mage,RIP,550,Runeterra,"brand,ryze,anivia,lissandra,nasus,renekton,xerath",73,jungle,support,Dark Harvest,"Liandry's Torment,Rylai's Crystal Scepter,Zhonya's Hourglass",1
+braum,브라움,Support,Tank,125,Freljord,"braum,ashe,tryndamere,lissandra,ornn",118,support,RIP,Guardian,"Locket of the Iron Solari,Knight's Vow,Zeke's Convergence",3
+briar,브라이어,Fighter,Assassin,125,Noxus,"briar,sion,swain,talon,vladimir",164,jungle,top,Hail of Blades,"Youmuu's Ghostblade,The Collector,Lord Dominik's Regards",2
+caitlyn,케이틀린,Marksman,RIP,650,Piltover,"caitlyn,vi,jinx",66,adc,RIP,Fleet Footwork,"Stormrazor,Infinity Edge,Rapid Firecannon",2
+camille,카밀,Fighter,Tank,125,Piltover,"camille,caitlyn,ezreal,jayce,viktor,vi,ekko,orianna,warwick",133,top,RIP,Grasp of the Undying,"Trinity Force,Ravenous Hydra,Sterak's Gage",4
+cassiopeia,카시오페아,Mage,RIP,550,Noxus,"cassiopeia,katarina,renekton,nasus,xerath,sivir,azir,talon",65,mid,top,Conqueror,"Tear of the Goddess,Rod of Ages,Seraph's Embrace,Rylai's Crystal Scepter",3
+chogath,초가스,Tank,Mage,125,The Void,"chogath,kog'maw,kha'zix,vel'koz",24,top,RIP,Grasp of the Undying,"Heartsteel,Sunfire Aegis,Thornmail",5
+corki,코르키,Marksman,RIP,550,Bandle City,"corki,heimerdinger,veigar",36,mid,RIP,First Strike,"Muramana,Malignance,Eclipse",4
+darius,다리우스,Fighter,Tank,175,Noxus,"darius,draven,katarina,swain,vladimir",97,top,RIP,Conqueror,"Trinity Force,Sterak's Gage,Dead Man's Plate",1
+diana,다이애나,Fighter,Mage,150,Targon,"diana,leona,taric,zoe,pantheon",101,jungle,mid,Conqueror,"Stormsurge,Shadowflame,Zhonya's Hourglass",5
+draven,드레이븐,Marksman,RIP,550,Noxus,"draven,darius,swain",98,adc,RIP,Lethal Tempo,"Serrated Dirk,Hubris,The Collector,Infinity Edge",2
+drmundo,문도 박사,Fighter,Tank,125,Zaun,"drmundo,ekko",32,top,RIP,Grasp of the Undying,"Heartsteel,Sunfire Aegis,Spirit Visage",3
+ekko,에코,Assassin,Fighter,125,Zaun,"ekko,jinx,camille,vi,viktor,caitlyn,jayce,janna",124,jungle,mid,Dark Harvest,"Hextech Rocketbelt,Stormsurge,Lich Bane",4
+elise,엘리스,Mage,Fighter,550,Shadow Isles,"elise,leblanc,vladimir",105,jungle,RIP,Electrocute,"Stormsurge,Shadowflame,Zhonya's Hourglass",4
+evelynn,이블린,Assassin,Mage,125,Runeterra,"evelynn,vayne,tahm kench,ryze",19,jungle,RIP,Electrocute,"Dark Seal,Lich Bane,Mejai's Soulstealer,Rabadon's Deathcap",2
+ezreal,이즈리얼,Marksman,Mage,550,Piltover,"ezreal,kassadin,lux,rek'sai",46,adc,RIP,Press the Attack,"Tear of the Goddess,Essence Reaver,Muramana,Navori Quickblades",1
+fiddlesticks,피들스틱,Mage,Support,480,Runeterra,"fiddlesticks,nocturne,shaco",16,jungle,RIP,First Strike,"Stormsurge,Zhonya's Hourglass,Shadowflame",4
+fiora,피오라,Fighter,Assassin,150,Demacia,"fiora,jarvan iv,garen,jax",93,top,RIP,Conqueror,"Ravenous Hydra,Trinity Force,Death's Dance",2
+fizz,피즈,Assassin,Fighter,175,Runeterra,"fizz,illaoi,nami,nautilus",86,mid,RIP,Electrocute,"Stormsurge,Lich Bane,Zhonya's Hourglass",2
+galio,갈리오,Tank,Mage,150,Demacia,"galio,kayle,morgana,lux,sylas",56,mid,RIP,Electrocute,"Stormsurge,Shadowflame,Zhonya's Hourglass",3
+gangplank,갱플랭크,Fighter,RIP,125,Bilgewater,"gangplank,miss fortune,swain,zed,illaoi,twisted fate,graves",29,top,mid,First Strike,"Essence Reaver,Navori Quickblades,The Collector",5
+garen,가렌,Fighter,Tank,175,Demacia,"garen,lux,jarvan iv,quinn",49,top,RIP,Conqueror,"Trinity Force,Phantom Dancer,Dead Man's Plate",2
+gnar,나르,Fighter,Tank,175,Freljord,"gnar,nunu & willump,rengar",119,top,RIP,Fleet Footwork,"Trinity Force,Black Cleaver,Sterak's Gage",4
+gragas,그라가스,Fighter,Mage,125,Freljord,"gragas,tryndamere,braum,jax,ashe",43,jungle,top,Dark Harvest,"Stormsurge,Shadowflame,Zhonya's Hourglass",4
+graves,그레이브즈,Marksman,RIP,425,Bilgewater,"graves,twisted fate,gangplank,miss fortune",84,jungle,RIP,Fleet Footwork,"Youmuu's Ghostblade,The Collector,Lord Dominik's Regards",2
+gwen,그웬,Fighter,Assassin,150,Shadow Isles,"gwen,viego,senna,yorick",154,top,jungle,Conqueror,"Riftmaker,Nashor's Tooth,Cosmic Drive",3
+hecarim,헤카림,Fighter,Tank,175,Shadow Isles,"hecarim,kalista,thresh,yorick",95,jungle,RIP,Phase Rush,"Spear of Shojin,Opportunity,Profane Hydra",4
+heimerdinger,하이머딩거,Mage,Support,550,Piltover,"heimerdinger,corki,gnar,ziggs,rumble,veigar",39,support,RIP,Arcane Comet,"Rylai's Crystal Scepter,Liandry's Torment,Zhonya's Hourglass",5
+hwei,흐웨이,Mage,RIP,550,Ionia,"hwei,jhin,shen,zed",165,mid,support,Arcane Comet,"Luden's Companion,Stormsurge,Shadowflame",3
+illaoi,일라오이,Fighter,Tank,125,Bilgewater,"illaoi,gangplank,miss fortune,hecarim",127,top,RIP,Grasp of the Undying,"Iceborn Gauntlet,Black Cleaver,Sterak's Gage",3
+irelia,이렐리아,Fighter,Assassin,200,Ionia,"irelia,karma,swain",63,top,mid,Conqueror,"Blade of The Ruined King,Sundered Sky,Wit's End",3
+ivern,아이번,Support,Mage,475,Ionia,"ivern,lillia",132,jungle,RIP,Summon Aery,"Moonstone Renewer,Redemption,Staff of Flowing Water",3
+janna,잔나,Support,Mage,550,Zaun,"janna,ekko,jinx,vi,urgot",34,support,RIP,Summon Aery,"Moonstone Renewer,Ardent Censer,Redemption",1
+jarvaniv,자르반 4세,Tank,Fighter,175,Demacia,"jarvaniv,garen,shyvana,xin zhao,lux",70,jungle,RIP,Conqueror,"Sundered Sky,Spear of Shojin,Sterak's Gage",4
+jax,잭스,Fighter,Assassin,125,Runeterra,"jax,aatrox,fiora,kassadin,zilean",11,top,jungle,Lethal Tempo,"Trinity Force,Sundered Sky,Spear of Shojin",3
+jayce,제이스,Fighter,Marksman,125,Piltover,"jayce,ezreal,camille,caitlyn,vi,viktor,skarner",99,top,mid,Phase Rush,"Tear of the Goddess,Youmuu's Ghostblade,Muramana,Serylda's Grudge",5
+jhin,진,Marksman,Mage,550,Ionia,"jhin,shen,zed,akali,hwei",128,adc,RIP,Fleet Footwork,"Youmuu's Ghostblade,The Collector,Rapid Firecannon",1
+jinx,징크스,Marksman,RIP,525,Zaun,"jinx,caitlyn,vi,ekko",115,adc,RIP,Lethal Tempo,"Kraken Slayer,Infinity Edge,Rapid Firecannon",2
+kaisa,카이사,Marksman,RIP,525,The Void,"kaisa,malzahar",139,adc,RIP,Lethal Tempo,"Kraken Slayer,Terminus,Guinsoo's Rageblade",4
+kalista,칼리스타,Marksman,RIP,525,Shadow Isles,"kalista,hecarim,thresh,yorick",121,adc,RIP,Lethal Tempo,"Blade of The Ruined King,Guinsoo's Rageblade,Terminus",4
+karma,카르마,Mage,Support,525,Ionia,"karma,irelia,lee sin",68,support,mid,Arcane Comet,"Imperial Mandate,Staff of Flowing Water,Morellonomicon",1
+karthus,카서스,Mage,RIP,450,Shadow Isles,"karthus,mordekaiser,thresh,yorick,soraka,kindred",22,jungle,RIP,Dark Harvest,"Malignance,Liandry's Torment,Shadowflame",4
+kassadin,카사딘,Assassin,Mage,150,The Void,"kassadin,malzahar,ezreal",28,mid,RIP,Fleet Footwork,"Tear of the Goddess,Rod of Ages,Seraph's Embrace,Malignance",2
+katarina,카타리나,Assassin,Mage,125,Noxus,"katarina,cassiopeia,sion,talon,garen,swain,darius",35,mid,RIP,Electrocute,"Lich Bane,Shadowflame,Rabadon's Deathcap",1
+kayle,케일,Fighter,Support,175,Demacia,"kayle,galio,morgana,taric",12,top,mid,Lethal Tempo,"Nashor's Tooth,Riftmaker,Rabadon's Deathcap",3
+kayn,케인,Fighter,Assassin,175,Ionia,"kayn,aatrox,varus,zed,darius",136,jungle,RIP,Dark Harvest,"Youmuu's Ghostblade,Axiom Arc,Serylda's Grudge",3
+kennen,케넨,Mage,Marksman,550,Ionia,"kennen,akali,shen,zed",48,top,mid,Summon Aery,"Hextech Rocketbelt,Stormsurge,Shadowflame",5
+khazix,카직스,Assassin,RIP,125,The Void,"khazix,cho'gath,kog'maw,rengar,vel'koz",104,jungle,RIP,First Strike,"Voltaic Cyclosword,Youmuu's Ghostblade,Edge of Night",3
+kindred,킨드레드,Marksman,RIP,500,Runeterra,"kindred,karthus,mordekaiser,yorick",126,jungle,RIP,Press the Attack,"Kraken Slayer,Trinity Force,Terminus",4
+kled,클레드,Fighter,Tank,125,Noxus,"kled,swain,darius,tristana,elise",131,top,RIP,Conqueror,"Titanic Hydra,Black Cleaver,Sterak's Gage",3
+kogmaw,코그모,Marksman,Mage,500,The Void,"kogmaw,malzahar,kha'zix,cho'gath,vel'koz",53,adc,RIP,Lethal Tempo,"Blade of The Ruined King,Guinsoo's Rageblade,Terminus",5
+ksante,크산테,Tank,Fighter,175,Shurima,"ksante,azir,renekton,xerath",161,top,RIP,Grasp of the Undying,"Iceborn Gauntlet,Sunfire Aegis,Jak'Sho, The Protean",3
+leblanc,르블랑,Assassin,Mage,525,Noxus,"leblanc,swain,elise",62,mid,RIP,Electrocute,"Luden's Companion,Stormsurge,Shadowflame",4
+leesin,리 신,Fighter,Assassin,125,Ionia,"leesin,karma,udyr",72,jungle,RIP,Conqueror,"Sundered Sky,Black Cleaver,Sterak's Gage",3
+leona,레오나,Tank,Support,125,Targon,"leona,diana,taric,aurelion sol,pantheon",78,support,RIP,Aftershock,"Locket of the Iron Solari,Zeke's Convergence,Thornmail",2
+lillia,릴리아,Fighter,Mage,325,Ionia,"lillia,ivern,ahri,yasuo",148,jungle,RIP,Conqueror,"Liandry's Torment,Riftmaker,Rylai's Crystal Scepter",1
+lissandra,리산드라,Mage,RIP,550,Freljord,"lissandra,ashe,sejuani,nunu & willump",112,mid,RIP,Electrocute,"Malignance,Shadowflame,Zhonya's Hourglass",3
+lucian,루시안,Marksman,RIP,500,Runeterra,"lucian,thresh,miss fortune,olaf,hecarim",114,adc,RIP,Press the Attack,"Stormrazor,Voltaic Cyclosword,Rapid Firecannon",2
+lulu,룰루,Support,Mage,550,Bandle City,"lulu,veigar,gnar",94,support,RIP,Summon Aery,"Shurelya's Battlesong,Ardent Censer,Redemption",4
+lux,럭스,Mage,Support,550,Demacia,"lux,garen,jarvan iv,galio",61,support,mid,Arcane Comet,"Luden's Companion,Stormsurge,Shadowflame",3
+malphite,말파이트,Tank,Fighter,125,Ixtal,"malphite,ezreal,kassadin,qiyana,taliyah",31,top,mid,Grasp of the Undying,"Sunfire Aegis,Thornmail,Kaenic Rookern",2
+malzahar,말자하,Mage,Assassin,500,The Void,"malzahar,kassadin,kai'sa",51,mid,RIP,Summon Aery,"Malignance,Liandry's Torment,Rylai's Crystal Scepter",3
+maokai,마오카이,Tank,Mage,125,Shadow Isles,"maokai,malphite,zyra,yorick",69,support,jungle,Aftershock,"Trailblazer,Locket of the Iron Solari,Knight's Vow",0
+masteryi,마스터 이,Assassin,Fighter,175,Ionia,"masteryi,wukong,singed",2,jungle,RIP,Lethal Tempo,"Blade of The Ruined King,Kraken Slayer,Guinsoo's Rageblade",2
+milio,밀리오,Support,RIP,525,Ixtal,"milio,neeko,nidalee,qiyana",162,support,RIP,Summon Aery,"Moonstone Renewer,Ardent Censer,Redemption",2
+missfortune,미스 포츈,Marksman,RIP,550,Bilgewater,"missfortune,gangplank,illaoi,twisted fate,graves,lucian,olaf,hecarim,ryze",58,adc,RIP,First Strike,"Youmuu's Ghostblade,The Collector,Serylda's Grudge",0
+monkeyking,오공,Fighter,Tank,175,Ionia,"monkeyking,master yi,ahri",79,jungle,top,Conqueror,"Trinity Force,Sundered Sky,Spear of Shojin",5
+mordekaiser,모데카이저,Fighter,RIP,175,Noxus,"mordekaiser,leblanc,veigar,vladimir",45,top,RIP,Conqueror,"Rylai's Crystal Scepter,Riftmaker,Liandry's Torment",2
+morgana,모르가나,Mage,Support,450,Demacia,"morgana,kayle,galio,taric",3,support,RIP,Arcane Comet,"Liandry's Torment,Zhonya's Hourglass,Morellonomicon",2
+naafiri,나피리,Assassin,RIP,125,Shurima,"naafiri,aatrox,kayn,varus",163,mid,RIP,First Strike,"Tiamat,Profane Hydra,Opportunity,Serylda's Grudge",2
+nami,나미,Support,Mage,550,Runeterra,"nami,fizz,nautilus",107,support,RIP,Summon Aery,"Imperial Mandate,Ardent Censer,Staff of Flowing Water",2
+nasus,나서스,Fighter,Tank,125,Shurima,"nasus,renekton,azir,xerath,sivir",37,top,RIP,Fleet Footwork,"Trinity Force,Frozen Heart,Spirit Visage",4
+nautilus,노틸러스,Tank,Support,175,Bilgewater,"nautilus,fizz,illaoi,nami,tahm kench",92,support,RIP,Glacial Augment,"Locket of the Iron Solari,Knight's Vow,Zeke's Convergence",3
+neeko,니코,Mage,Support,550,Ixtal,"neeko,nidalee,rengar,ezreal",141,mid,support,Arcane Comet,"Hextech Rocketbelt,Stormsurge,Zhonya's Hourglass",2
+nidalee,니달리,Assassin,Mage,525,Ixtal,"nidalee,neeko,rengar",41,jungle,RIP,Dark Harvest,"Lich Bane,Stormsurge,Shadowflame",5
+nilah,닐라,Fighter,Assassin,225,Bilgewater,"nilah,graves,illaoi,viego,fiddlesticks",160,adc,RIP,Conqueror,"The Collector,Navori Quickblades,Immortal Shieldbow",2
+nocturne,녹턴,Assassin,Fighter,125,Runeterra,"nocturne,evelynn,tahm kench,zed",71,jungle,RIP,Lethal Tempo,"Experimental Hexplate,Eclipse,Axiom Arc",2
+nunu,누누와 윌럼프,Tank,Fighter,125,Freljord,"nunu,lissandra,anivia",0,jungle,RIP,Phase Rush,"Liandry's Torment,Frozen Heart,Kaenic Rookern",4
+olaf,올라프,Fighter,Tank,125,Freljord,"olaf,sejuani,volibear,miss fortune,lucian",52,top,RIP,Conqueror,"Ravenous Hydra,Experimental Hexplate,Sterak's Gage",4
+orianna,오리아나,Mage,Support,525,Piltover,"orianna,blitzcrank,camille,skarner",76,mid,RIP,Summon Aery,"Luden's Companion,Stormsurge,Shadowflame",4
+ornn,오른,Tank,Fighter,175,Freljord,"ornn,volibear,anivia,braum",137,top,RIP,Grasp of the Undying,"Sunfire Aegis,Jak'Sho, The Protean,Thornmail",4
+pantheon,판테온,Fighter,Assassin,175,Targon,"pantheon,aatrox,aurelion sol,leona",44,top,support,Press the Attack,"Umbral Glaive,Blade of The Ruined King,Maw of Malmortius",4
+poppy,뽀삐,Tank,Fighter,125,Demacia,"poppy,galio,shyvana",42,jungle,top,Phase Rush,"Sunfire Aegis,Thornmail,Kaenic Rookern",4
+pyke,파이크,Support,Assassin,150,Bilgewater,"pyke,gangplank,miss fortune",140,support,RIP,Hail of Blades,"Umbral Glaive,Axiom Arc,Edge of Night",2
+qiyana,키아나,Assassin,Fighter,150,Ixtal,"qiyana,malphite,rengar,zyra",144,mid,RIP,Electrocute,"Youmuu's Ghostblade,Opportunity,Serylda's Grudge",2
+quinn,퀸,Marksman,Assassin,525,Demacia,"quinn,jarvan iv,garen,sona",110,top,RIP,Fleet Footwork,"Stormrazor,Youmuu's Ghostblade,The Collector",4
+rakan,라칸,Support,RIP,300,Ionia,"rakan,xayah,zed",135,support,RIP,Guardian,"Trailblazer,Zeke's Convergence,Knight's Vow",2
+rammus,람머스,Tank,Fighter,125,Shurima,rammus,25,jungle,RIP,Aftershock,"Thornmail,Sunfire Aegis,Jak'Sho, The Protean",3
+reksai,렉사이,Fighter,RIP,175,The Void,"reksai,skarner",122,jungle,RIP,Conqueror,"Titanic Hydra,Black Cleaver,Sterak's Gage",4
+rell,렐,Tank,Support,175,Noxus,"rell,leblanc,samira",152,support,jungle,Glacial Augment,"Trailblazer,Zeke's Convergence,Knight's Vow",3
+renata,레나타 글라스크,Support,Mage,550,Zaun,"renata,camille,ekko,viktor,zeri",158,support,RIP,Guardian,"Locket of the Iron Solari,Redemption,Imperial Mandate",4
+renekton,레넥톤,Fighter,Tank,125,Shurima,"renekton,nasus,azir,xerath,sivir",67,top,RIP,Conqueror,"Sundered Sky,Spear of Shojin,Sterak's Gage",5
+rengar,렝가,Assassin,Fighter,125,Ixtal,"rengar,kha'zix,nidalee,gnar",102,jungle,top,First Strike,"Serrated Dirk,Hubris,Profane Hydra,Opportunity",3
+riven,리븐,Fighter,Assassin,125,Noxus,"riven,leblanc,yasuo",82,top,RIP,Conqueror,"Eclipse,Sundered Sky,Spear of Shojin",2
+rumble,럼블,Fighter,Mage,125,Bandle City,"rumble,tristana,ziggs,heimerdinger,teemo,veigar",74,top,mid,Arcane Comet,"Liandry's Torment,Stormsurge,Zhonya's Hourglass",5
+ryze,라이즈,Mage,Fighter,550,Runeterra,"ryze,brand,miss fortune,trundle,sona,nasus,galio,malzahar",1,mid,RIP,Phase Rush,"Tear of the Goddess,Rod of Ages,Seraph's Embrace,Rabadon's Deathcap",4
+samira,사미라,Marksman,RIP,500,Noxus,"samira,darius,leblanc",150,adc,RIP,Conqueror,"The Collector,Infinity Edge,Immortal Shieldbow",2
+sejuani,세주아니,Tank,Fighter,150,Freljord,"sejuani,ashe,lissandra,olaf",90,jungle,RIP,Aftershock,"Sunfire Aegis,Thornmail,Kaenic Rookern",5
+senna,세나,Marksman,Support,600,Runeterra,"senna,lucian,thresh,hecarim",145,support,adc,Fleet Footwork,"Umbral Glaive,Youmuu's Ghostblade,Rapid Firecannon",1
+seraphine,세라핀,Mage,Support,525,Piltover,"seraphine,skarner",151,adc,support,Summon Aery,"Seraph's Embrace,Staff of Flowing Water,Moonstone Renewer",4
+sett,세트,Fighter,Tank,125,Ionia,"sett,alistar,draven",147,top,RIP,Conqueror,"Sundered Sky,Titanic Hydra,Sterak's Gage",4
+shaco,샤코,Assassin,RIP,125,Runeterra,"shaco,fiddlesticks,nocturne",38,jungle,support,Hail of Blades,"Tiamat,Profane Hydra,Blade of The Ruined King,Serylda's Grudge",4
+shen,쉔,Tank,RIP,125,Ionia,"shen,kennen,akali,zed,jhin",47,top,RIP,Grasp of the Undying,"Sunfire Aegis,Titanic Hydra,Thornmail",3
+shyvana,쉬바나,Fighter,Tank,125,Demacia,"shyvana,jarvan iv,xin zhao,sona",85,jungle,RIP,Dark Harvest,"Nashor's Tooth,Stormsurge,Shadowflame",5
+singed,신지드,Tank,Fighter,125,Zaun,"singed,warwick,riven,master yi",17,top,RIP,Conqueror,"Liandry's Torment,Riftmaker,Rylai's Crystal Scepter",3
+sion,사이온,Tank,Fighter,175,Noxus,"sion,swain,jarvan iv,leblanc",4,top,RIP,Grasp of the Undying,"Sunfire Aegis,Heartsteel,Titanic Hydra",5
+sivir,시비르,Marksman,RIP,500,Shurima,"sivir,azir,nasus,taliyah",6,adc,RIP,Lethal Tempo,"Kraken Slayer,Navori Quickblades,Lord Dominik's Regards",5
+skarner,스카너,Fighter,Tank,125,Shurima,"skarner,camille,jayce",80,RIP,RIP,Phase Rush,"Tear of the Goddess,Trinity Force,Muramana,Sundered Sky",6
+smolder,스몰더,Marksman,RIP,550,Runeterra,"smolder,viego,shyvana,aurelion sol",166,adc,mid,Press the Attack,"Essence Reaver,Navori Quickblades,Lord Dominik's Regards",5
+sona,소나,Support,Mage,550,Demacia,"sona,taric,xin zhao,ryze",59,support,RIP,Summon Aery,"Moonstone Renewer,Staff of Flowing Water,Ardent Censer",3
+soraka,소라카,Support,Mage,550,Targon,"soraka,aurelion sol,syndra,warwick",5,support,RIP,Summon Aery,"Moonstone Renewer,Redemption,Ardent Censer",4
+swain,스웨인,Mage,Fighter,525,Noxus,"swain,leblanc,darius,katarina,draven,vladimir",60,support,mid,Conqueror,"Malignance,Rylai's Crystal Scepter,Zhonya's Hourglass",4
+sylas,사일러스,Mage,Assassin,175,Demacia,"sylas,lux,galio",142,mid,top,Electrocute,"Stormsurge,Shadowflame,Zhonya's Hourglass",1
+syndra,신드라,Mage,RIP,550,Ionia,"syndra,irelia,karma",103,mid,RIP,First Strike,"Luden's Companion,Stormsurge,Shadowflame",3
+tahmkench,탐 켄치,Support,Tank,175,Runeterra,"tahmkench,evelynn,fizz,nautilus,pyke",125,top,support,Grasp of the Undying,"Heartsteel,Sunfire Aegis,Thornmail",3
+taliyah,탈리야,Mage,Support,525,Shurima,"taliyah,yasuo,azir,nasus,sivir,xerath",130,jungle,mid,First Strike,"Luden's Companion,Shadowflame,Zhonya's Hourglass",5
+talon,탈론,Assassin,RIP,125,Noxus,"talon,katarina,quinn,cassiopeia",81,mid,jungle,Electrocute,"Eclipse,Sundered Sky,Black Cleaver",2
+taric,타릭,Support,Fighter,150,Targon,"taric,garen,leona,diana,zoe",30,support,RIP,Glacial Augment,"Tear of the Goddess,Locket of the Iron Solari,Fimbulwinter,Knight's Vow",4
+teemo,티모,Marksman,Assassin,500,Bandle City,"teemo,tristana,veigar,rumble",15,top,support,Press the Attack,"Nashor's Tooth,Liandry's Torment,Malignance",4
+thresh,쓰레쉬,Support,Fighter,450,Shadow Isles,"thresh,hecarim,karthus,lucian,kalista,yorick",109,support,RIP,Glacial Augment,"Locket of the Iron Solari,Zeke's Convergence,Knight's Vow",3
+tristana,트리스타나,Marksman,Assassin,525,Bandle City,"tristana,teemo,rumble",13,adc,mid,Lethal Tempo,"Kraken Slayer,Navori Quickblades,Lord Dominik's Regards",4
+trundle,트런들,Fighter,Tank,175,Freljord,"trundle,lissandra,ashe,sejuani,ryze",64,top,jungle,Lethal Tempo,"Trinity Force,Ravenous Hydra,Hullbreaker",1
+tryndamere,트린다미어,Fighter,Assassin,175,Freljord,"tryndamere,ashe,braum,aatrox",20,top,RIP,Lethal Tempo,"Kraken Slayer,Navori Quickblades,Guinsoo's Rageblade",5
+twistedfate,트위스티드 페이트,Mage,RIP,525,Bilgewater,"twistedfate,graves,gangplank,miss fortune",14,mid,adc,Electrocute,"Rod of Ages,Lich Bane,Rapid Firecannon",1
+twitch,트위치,Marksman,Assassin,550,Zaun,"twitch,zac",21,adc,support,Lethal Tempo,"Blade of The Ruined King,Runaan's Hurricane,Terminus",2
+udyr,우디르,Fighter,Tank,125,Freljord,"udyr,lee sin,sejuani,volibear",40,top,jungle,Grasp of the Undying,"Iceborn Gauntlet,Sunfire Aegis,Abyssal Mask",4
+urgot,우르곳,Fighter,Tank,350,Zaun,"urgot,swain,ekko,camille,darius",57,top,RIP,Press the Attack,"Black Cleaver,Titanic Hydra,Sterak's Gage",3
+varus,바루스,Marksman,Mage,575,Ionia,"varus,aatrox,kayn",96,adc,RIP,Lethal Tempo,"Blade of The Ruined King,Guinsoo's Rageblade,Terminus",2
+vayne,베인,Marksman,Assassin,550,Demacia,"vayne,vladimir,warwick,sion",75,adc,top,Lethal Tempo,"Blade of The Ruined King,Guinsoo's Rageblade,Terminus",2
+veigar,베이가,Mage,RIP,550,Bandle City,"veigar,mordekaiser,leblanc",27,mid,RIP,First Strike,"Luden's Companion,Stormsurge,Rabadon's Deathcap",3
+velkoz,벨코즈,Mage,RIP,525,The Void,"velkoz,kha'zix,cho'gath,kog'maw,rek'sai",117,support,mid,Arcane Comet,"Luden's Companion,Stormsurge,Shadowflame",4
+vex,벡스,Mage,RIP,550,Shadow Isles,"vex,lucian,senna,thresh,viego",156,mid,RIP,Electrocute,"Luden's Companion,Stormsurge,Shadowflame",3
+vi,바이,Fighter,Assassin,125,Piltover,"vi,caitlyn,jinx,ekko",108,jungle,RIP,Hail of Blades,"Sundered Sky,Black Cleaver,Sterak's Gage",3
+viego,비에고,Assassin,Fighter,200,Shadow Isles,"viego,hecarim,kalista,senna,thresh,vladimir,yorick",153,jungle,RIP,Conqueror,"Kraken Slayer,Trinity Force,Sundered Sky",3
+viktor,빅토르,Mage,RIP,525,Zaun,"viktor,blitzcrank,urgot,camille,jayce,ekko,orianna,dr. mundo",89,mid,RIP,First Strike,"Luden's Companion,Stormsurge,Shadowflame",3
+vladimir,블라디미르,Mage,RIP,450,Noxus,"vladimir,swain,leblanc,elise,kayn",55,mid,top,Phase Rush,"Riftmaker,Liandry's Torment,Rabadon's Deathcap",2
+volibear,볼리베어,Fighter,Tank,150,Freljord,"volibear,ornn,anivia,lissandra",87,top,RIP,Lethal Tempo,"Nashor's Tooth,Riftmaker,Hullbreaker",5
+warwick,워윅,Fighter,Tank,125,Zaun,"warwick,camille,singed,vayne",10,jungle,top,Lethal Tempo,"Titanic Hydra,Blade of The Ruined King,Thornmail",3
+xayah,자야,Marksman,RIP,525,Ionia,"xayah,rakan,zed",134,adc,RIP,Lethal Tempo,"Kraken Slayer,Navori Quickblades,Lord Dominik's Regards",4
+xerath,제라스,Mage,RIP,525,Shurima,"xerath,renekton,cassiopeia,nasus,azir,sivir,taliyah,brand",83,support,mid,First Strike,"Luden's Companion,Stormsurge,Shadowflame",3
+xinzhao,신 짜오,Fighter,Assassin,175,Demacia,"xinzhao,alistar,jarvan iv,garen,shyvana",54,jungle,RIP,Conqueror,"Titanic Hydra,Sundered Sky,Sterak's Gage",3
+yasuo,야스오,Fighter,Assassin,175,Ionia,"yasuo,yone,taliyah,riven",116,mid,top,Lethal Tempo,"Kraken Slayer,Infinity Edge,Immortal Shieldbow",2
+yone,요네,Assassin,Fighter,175,Ionia,"yone,yasuo,lillia",149,top,mid,Lethal Tempo,"Kraken Slayer,Infinity Edge,Immortal Shieldbow",2
+yorick,요릭,Fighter,Tank,175,Shadow Isles,"yorick,hecarim,kalista,thresh,karthus,maokai,kindred",77,top,RIP,Conqueror,"Tiamat,Profane Hydra,Spear of Shojin,Serylda's Grudge",5
+yuumi,유미,Support,Mage,425,Bandle City,"yuumi,lulu,tristana,teemo",143,support,RIP,Summon Aery,"Moonstone Renewer,Mikael's Blessing,Ardent Censer",4
+zac,자크,Tank,Fighter,175,Zaun,"zac,twitch",111,jungle,top,Aftershock,"Sunfire Aegis,Thornmail,Spirit Visage",3
+zed,제드,Assassin,RIP,125,Ionia,"zed,shen,akali,kennen,gangplank,jhin,kayn",106,mid,jungle,Electrocute,"Voltaic Cyclosword,Youmuu's Ghostblade,Edge of Night",2
+zeri,제리,Marksman,RIP,500,Zaun,"zeri,ekko",157,adc,RIP,Lethal Tempo,"Experimental Hexplate,Runaan's Hurricane,Titanic Hydra",5
+ziggs,직스,Mage,RIP,550,Zaun,"ziggs,heimerdinger,rumble,veigar",91,adc,RIP,Arcane Comet,"Tear of the Goddess,Luden's Companion,Seraph's Embrace,Shadowflame",5
+zilean,질리언,Support,Mage,550,Runeterra,"zilean,aatrox,jax,vel'koz",18,support,RIP,Summon Aery,"Shurelya's Battlesong,Imperial Mandate,Morellonomicon",3
+zoe,조이,Mage,Support,550,Targon,"zoe,aurelion sol,pantheon",138,mid,RIP,Electrocute,"Luden's Companion,Stormsurge,Shadowflame",3
+zyra,자이라,Mage,Support,575,Ixtal,"zyra,ivern,nidalee",100,support,RIP,Arcane Comet,"Liandry's Torment,Rylai's Crystal Scepter,Morellonomicon",1

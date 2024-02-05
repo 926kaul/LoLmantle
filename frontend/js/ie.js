@@ -151,13 +151,13 @@ function updateGuesses(){
         }
         let itemslst = entry['아이템'].split(',');
 
-        inner += `<tr class="maininfo" id = "${guessNumber.toString() + "maininfo"}" style="border-top: 1px solid rgb(168, 168, 168);"><td>${guessNumber}</td><td>${name}</td><td>${similarity}</td><td>${rank}</td></tr>`;
+        inner += `<tr class="maininfo" id = "${guessNumber.toString() + "_maininfo"}" style="border-top: 1px solid rgb(168, 168, 168);"><td>${guessNumber}</td><td>${name}</td><td>${similarity}</td><td>${rank}</td></tr>`;
 
         let tagtag = "주역할군: "+entry['역할군1']+"<br>"+"부역할군: "+secondtag + "<br><br>" + "사거리: " + entry['사거리'];
         let linetag = "주라인: "+entry['라인1']+"<br>"+"부라인: "+secondline+"<br><br>"+"룬 :"+entry['룬'];
         let itemtag = "1코어: "+itemslst[0]+"<br><br>"+"2코어: "+itemslst[1]+"<br><br>"+"3코어: "+itemslst[2];
         let regiontag = "지역: " + entry['지역'] + "<br><br>" + "관련 챔피언: " + entry['관련 챔피언'] + "<br><br>"+ "출시 순서: " + entry['출시순'] + "번째";
-        inner += `<tr class="detail" id = "${guessNumber.toString() + "detail"}" style="display: none;border-top: 1px solid rgb(220, 220, 220);line-height:170%"><td>${tagtag}</td><td>${linetag}</td><td>${itemtag}</td><td>${regiontag}</td></tr>`;
+        inner += `<tr class="detail" id = "${guessNumber.toString() + "_detail"}" style="display: none;border-top: 1px solid rgb(220, 220, 220);line-height:170%"><td>${tagtag}</td><td>${linetag}</td><td>${itemtag}</td><td>${regiontag}</td></tr>`;
     }
 
     $('#guesses').html(inner);
@@ -175,7 +175,8 @@ function updateGuesses(){
 
     $('.maininfo').click(function(event){
         clicked_id = $(this).attr("id");
-        $("#" + clicked_id[0] + "detail").toggle();
+        clicked_id_num = clicked_id.split("_")[0];
+        $("#" + clicked_id_num + "_detail").toggle();
     });
 
 }

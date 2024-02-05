@@ -60,12 +60,16 @@ searchInput.on("keyup", function(key){
         }
     }
 
-    if(key.keyCode==13){
+    if(keyCode==13){
         var items = $("#suggested_items").find('li')
         if (selectedIndex >= 0 && items.length > 0){
             searchInput.val(items.eq(selectedIndex).text());
         }
         searching();
+    }
+
+    if(keyCode != 34 && keyCode != 40){
+        selectedIndex = -1;
     }
 });
 

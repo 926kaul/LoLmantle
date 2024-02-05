@@ -43,8 +43,8 @@ def server_update():
       time.sleep(1)
       if doing == 0:
         break
-    #similarity.writing_similarity()
-    similarity.updating_similarity()
+    similarity.writing_similarity()
+    #similarity.updating_similarity()
     print("update end/" + str(time.localtime()))
 
 

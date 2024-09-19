@@ -1,2 +1,2 @@
 # LoLmantle
-LoLmante; gaming website
+LoLmante; LoL Quiz website
